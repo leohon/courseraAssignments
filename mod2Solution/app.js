@@ -42,6 +42,7 @@
     // List of bought items
     var boughtItems = [];
 
+    // Functions
     service.getToBuyItems = function () {
       return toBuyItems;
     };
